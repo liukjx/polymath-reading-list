@@ -1,84 +1,70 @@
-# How to Disagree
+# 如何反驳
 
 > Paul Graham, 原文链接: https://www.paulgraham.com/disagree.html
 
-March 2008
+2008年3月
 
-The web is turning writing into a conversation. Twenty years ago, writers wrote and readers read. The web lets readers respond, and increasingly they do—in comment threads, on forums, and in their own blog posts.
+互联网正在把写作变成一场对话。二十年前，作家写，读者读。现在读者可以回应——在评论、论坛和自己的博客上。
 
-Many who respond to something disagree with it. That's to be expected. Agreeing tends to motivate people less than disagreeing. And when you agree there's less to say. You could expand on something the author said, but he has probably already explored the most interesting implications. When you disagree you're entering territory he may not have explored.
+很多回应都是反驳。这在意料之中。同意往往没有不同意的动机强。而且当你同意时，没什么好说的。但不同意的内容在增加，尤其是按字数计算。
 
-The result is there's a lot more disagreeing going on, especially measured by the word. That doesn't mean people are getting angrier. The structural change in the way we communicate is enough to account for it. But though it's not anger that's driving the increase in disagreement, there's a danger that the increase in disagreement will make people angrier. Particularly online, where it's easy to say things you'd never say face to face.
+如果我们要更多地反驳，就应该学会如何做好这件事。
 
-If we're all going to be disagreeing more, we should be careful to do it well. What does it mean to disagree well? Most readers can tell the difference between mere name-calling and a carefully reasoned refutation, but I think it would help to put names on the intermediate stages. So here's an attempt at a disagreement hierarchy:
+以下是我对反驳方式的层次分级：
 
-### DH0. Name-calling.
+### DH0. 辱骂
 
-This is the lowest form of disagreement, and probably also the most common. We've all seen comments like this:
+这是最低级的反驳，也是最常见的。
 ```
-u r a fag!!!!!!!!!!
+你他妈是傻逼！！！
 ```
-But it's important to realize that more articulate name-calling has just as little weight. A comment like "The author is a self-important dilettante" is really nothing more than a pretentious version of "u r a fag."
+更有文采的辱骂同样没有分量。例如"作者是一个自以为是的外行"，不过是"傻逼"的高级版本。
 
-### DH1. Ad Hominem.
+### DH1. 人身攻击
 
-An ad hominem attack is not quite as weak as mere name-calling. It might actually carry some weight. For example, if a senator wrote an article saying senators' salaries should be increased, one could respond: "Of course he would say that. He's a senator."
+比辱骂稍好一点。例如，一个参议员写文章说应该提高参议员工资，你可以回应："他当然会这么说，他是参议员。"
 
-This wouldn't refute the author's argument, but it may at least be relevant to the case. It's still a very weak form of disagreement, though. If there's something wrong with the senator's argument, you should say what it is; and if there isn't, what difference does it make that he's a senator?
+这没有反驳论点，但至少相关。说作者没有资格写某个话题人身攻击的一种变体。问题是作者是否正确，而不是他有没有权威。
 
-Saying that an author lacks the authority to write about a topic is a variant of ad hominem—and a particularly useless sort, because good ideas often come from outsiders. The question is whether the author is correct or not.
+### DH2. 反驳语气
 
-### DH2. Responding to Tone.
+开始回应文章本身，而不是作者。最低级的是反驳语气。"我无法相信作者用如此轻佻的态度否定智能设计论。"
 
-The next level up we start to see responses to the writing, rather than the writer. The lowest form of these is to disagree with the author's tone. E.g. "I can't believe the author dismisses intelligent design in such a cavalier fashion."
+比攻击作者好，但仍然很弱。作者是否正确比他用了什么语气重要得多。
 
-Though better than attacking the author, this is still a weak form of disagreement. It matters much more whether the author is wrong or right than what his tone is. Especially since tone is so hard to judge.
+### DH3. 直接反驳
 
-### DH3. Contradiction.
+最终开始回应所说的话，而不是怎么说或谁说的。只是陈述相反的观点，基本不提供证据。
 
-In this stage we finally get responses to what was said, rather than how or by whom. The lowest form of response to an argument is simply to state the opposing case, with little or no supporting evidence.
+有时看到相反的观点本身可能就够了，但通常证据会更有帮助。
 
-This is often combined with DH2 statements, as in: "I can't believe the author dismisses intelligent design in such a cavalier fashion. Intelligent design is a legitimate scientific theory."
+### DH4. 论证
 
-Contradiction can sometimes have some weight. Sometimes merely seeing the opposing case stated explicitly is enough to see that it's right. But usually evidence will help.
+到达令人信服的反驳的第一层级。论证 = 直接反驳 + 推理和/或证据。
 
-### DH4. Counterargument.
+问题是，论证常常针对的是略微不同的东西。两个热烈争论的人往往实际上在争论两件不同的事。
 
-At level 4 we reach the first form of convincing disagreement: counterargument. Forms up to this point can usually be ignored as proving nothing. Counterargument might prove something. The problem is, it's hard to say exactly what.
+### DH5. 反驳
 
-Counterargument is contradiction plus reasoning and/or evidence. When aimed squarely at the original argument, it can be convincing. But unfortunately it's common for counterarguments to be aimed at something slightly different. More often than not, two people arguing passionately about something are actually arguing about two different things.
+最有说服力的反驳形式，也是最罕见的。
 
-### DH5. Refutation.
+要反驳某人，你通常必须引用他的话。找到你认为是错误的"确凿证据"，然后解释为什么是错的。如果你找不到实际引用，你可能在跟一个稻草人争论。
 
-The most convincing form of disagreement is refutation. It's also the rarest, because it's the most work. Indeed, the disagreement hierarchy forms a kind of pyramid, in the sense that the higher you go the fewer instances you find.
+### DH6. 反驳核心论点
 
-To refute someone you probably have to quote them. You have to find a "smoking gun," a passage in whatever you disagree with that you feel is mistaken, and then explain why it's mistaken. If you can't find an actual quote to disagree with, you may be arguing with a straw man.
+反驳的力度取决于你反驳了什么。最强的反驳是反驳某人的核心论点。
 
-### DH6. Refuting the Central Point.
+即使是 DH5，我们有时仍然看到故意的误导——选择性地反驳次要论点而回避核心论点。真正有效的反驳应该是：
 
-The force of a refutation depends on what you refute. The most powerful form of disagreement is to refute someone's central point.
+> "作者的核心论点似乎是X。正如他所说：`<引用>`。但这是错误的，原因如下……"
 
-Even as high as DH5 we still sometimes see deliberate dishonesty, as when someone picks out minor points of an argument and refutes those. Sometimes the spirit in which this is done makes it more of a sophisticated form of ad hominem than actual refutation. For example, correcting someone's grammar, or harping on minor mistakes in names or numbers. Unless the opposing argument actually depends on such things, the only purpose of correcting them is to discredit one's opponent.
+### 这意味着什么
 
-Truly refuting something requires one to refute its central point, or at least one of them. And that means one has to commit explicitly to what the central point is. So a truly effective refutation would look like:
+DH 级别不描述一个陈述是否正确，但它设定了上限。DH6 回复可能不令人信服，但 DH2 及以下的回复总是不可信的。
 
-> The author's main point seems to be x. As he says:
-> <quotation>
-> But this is wrong for the following reasons...
+最大的好处是帮助人们评估所读的内容，识破不诚实的论证。但**反驳得好的最大好处不仅仅是让对话变得更好，而是让参与对话的人更快乐**。DH1 级别比 DH6 级别有更多刻薄。当你有真正要说的点时，你不需要刻薄。
 
-### What It Means
-
-Now we have a way of classifying forms of disagreement. What good is it? One thing the disagreement hierarchy doesn't give us is a way of picking a winner. DH levels merely describe the form of a statement, not whether it's correct. A DH6 response could still be completely mistaken.
-
-But while DH levels don't set a lower bound on the convincingness of a reply, they do set an upper bound. A DH6 response might be unconvincing, but a DH2 or lower response is always unconvincing.
-
-The most obvious advantage of classifying the forms of disagreement is that it will help people to evaluate what they read. In particular, it will help them to see through intellectually dishonest arguments. An eloquent speaker or writer can give the impression of vanquishing an opponent merely by using forceful words. In fact that is probably the defining quality of a demagogue.
-
-But the greatest benefit of disagreeing well is not just that it will make conversations better, but that it will make the people who have them happier. If you study conversations, you find there is a lot more meanness down in DH1 than up in DH6. You don't have to be mean when you have a real point to make. In fact, you don't want to. If you have something real to say, being mean just gets in the way.
-
-If moving up the disagreement hierarchy makes people less mean, that will make most of them happier. Most people don't really enjoy being mean; they do it because they can't help it.
-
-*Thanks to Trevor Blackwell and Jessica Livingston for reading drafts of this.*
+*感谢 Trevor Blackwell 和 Jessica Livingston 对本文初稿的审阅。*
 
 ---
 

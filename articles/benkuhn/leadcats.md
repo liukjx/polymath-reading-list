@@ -1,61 +1,61 @@
-# Categories of Leadership on Technical Teams
+# 技术团队中的领导力类别
 
 > Ben Kuhn, 原文链接: https://www.benkuhn.net/leadcats/
 
-This is an adaptation of an internal doc I wrote for Anthropic.
+*本文是基于我为 Anthropic 编写的内部文档改编而成。*
 
-Recently I've been having a lot of conversations about how to structure and staff teams. One framework I've referenced repeatedly is to break down team leadership into a few different categories of responsibility.
+最近我经常讨论如何组建和配置团队。我反复使用的一个框架是将团队领导力分解为几个不同的责任类别。
 
-## Categories
+## 分类
 
-### Overall direction
+### 总体方向
 
-The most important responsibility a team's leadership is to ensure that the team is headed in the right direction. Overall direction involves:
-- Setting the team's mission, vision, or charter
-- Choosing the team's goals, plans and roadmap
-- Prioritizing the various different projects the team could take on
-- Communicating the above
+团队领导者最重要的责任是确保团队走在正确的方向上，包括：
+- 设定团队的使命、愿景或章程
+- 选择目标、计划和路线图
+- 确定各项工作的优先级
+- 与团队和外部沟通以上内容
 
-### People management
+### 人员管理
 
-People management means being responsible for the success of the people on the team, including:
-- Coaching people to improve and grow in their careers
-- Designing and overseeing hiring processes
-- Setting and communicating performance expectations
+负责团队中每个人的成功，包括：
+- 辅导和帮助成员职业成长
+- 设计和监督招聘流程
+- 设定绩效预期并进行评估
 
-### Project management
+### 项目管理
 
-Project management means making sure the team executes well. Day to day, it looks like:
-- Setting and running the team's operating cadence
-- Figuring out how to split up work, delegating it, and monitoring progress
-- Keeping the team oriented
+确保团队有效执行。具体包括：
+- 设定并运行团队的"运营节奏"（例会、计划会等）
+- 分配工作并跟踪进度
+- 保持团队的信息对齐
 
-### Technical leadership
+### 技术领导力
 
-Technical leadership means being responsible for the quality of a team's technical work:
-- Setting technical direction
-- Reviewing execution against that direction
-- Technical mentorship of ICs
+负责团队技术工作的质量：
+- 设定技术方向
+- 评审技术执行质量
+- 对工程师进行技术指导
 
-## Example Divisions of Responsibility
+## 责任分工的示例
 
-### The "tech lead manager"
+### "技术领导兼经理"
 
-When a new company introduces their first technical managers, they often move their strongest technical person into a management role and expect them to fulfill all four responsibilities. This usually struggles because the person isn't great at one or more of the responsibilities.
+公司在引入第一位技术经理时，通常会让最强的技术人兼管所有四个领域。这通常效果不好，因为该人员往往并不擅长其中一两个方面。
 
-### Engineering manager / tech lead
+### 工程经理 / 技术负责人
 
-This is common in larger companies, with the EM responsible for overall direction, people and project management, and the TL responsible for technical leadership.
+大公司的常见模式：工程经理负责总体方向、人员和项目管理；技术负责人负责技术领导。
 
-### Product manager / tech lead
+### 产品经理 / 技术负责人
 
-At Wave, we used a division where team managers (called Product Managers) often came from non-technical backgrounds. This worked because Wave was technically simple but operationally complex, and the PMs and TLs had very strong working relationships.
+这种分工不太常见。在 Wave 公司，团队的产品经理往往非技术背景出身。这之所以有效，是因为 Wave 的技术相对简单但运营复杂。
 
-### People manager / research lead
+### 人员经理 / 研究负责人
 
-Anthropic's Interpretability team split people management from research leadership, with Chris Olah owning overall direction and technical leadership, while Shan Carter owned people and project management.
+Anthropic 的可解释性团队将人员管理与研究领导分开：Chris Olah 负责总体方向和技术领导，Shan Carter 负责人员和项目管理。
 
-*Thanks to Milan Cvitkovic and many Anthropic coworkers for reading a draft of this post.*
+*感谢 Milan Cvitkovic 和许多 Anthropic 同事对本文的审阅。*
 
 ---
 

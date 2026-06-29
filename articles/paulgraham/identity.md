@@ -1,40 +1,30 @@
-# Keep Your Identity Small
+# 让你的身份保持小一点
 
 > Paul Graham, 原文链接: https://www.paulgraham.com/identity.html
 
-February 2009
+2009年2月
 
-I finally realized today why politics and religion yield such uniquely useless discussions.
+我最近终于想明白了，为什么政治和宗教总是产生毫无价值的讨论。
 
-As a rule, any mention of religion on an online forum degenerates into a religious argument. Why? Why does this happen with religion and not with Javascript or baking or other topics people talk about on forums?
+在论坛上，任何提到宗教的帖子都会退化成为一场宗教争论。为什么和编程或烘焙不一样？因为人们不觉得自己需要任何专业知识才能对宗教发表意见。他们只需要坚定的信念，而这任何人都可以有。JavaScript 的讨论不会像宗教那样爆炸式增长，因为人们觉得必须达到一定的专业水平才有资格发言。但在宗教上，人人都是专家。
 
-What's different about religion is that people don't feel they need to have any particular expertise to have opinions about it. All they need is strongly held beliefs, and anyone can have those. No thread about Javascript will grow as fast as one about religion, because people feel they have to be over some threshold of expertise to post comments about that. But on religion everyone's an expert.
+政治也是如此。政治和宗教一样，发表意见不需要任何专业门槛。
 
-Then it struck me: this is the problem with politics too. Politics, like religion, is a topic where there's no threshold of expertise for expressing an opinion. All you need is strong convictions.
+你可能认为是它们涉及的问题没有确定的答案，所以没有人能被证明是错的。但这并不完全正确。更精确的解释是：**政治和宗教都成了人们身份的一部分**，而人们永远无法对自己身份中某个部分进行有成效的争论。
 
-Do religion and politics have something in common that explains this similarity? One possible explanation is that they deal with questions that have no definite answers, so there's no back pressure on people's opinions. Since no one can be proven wrong, every opinion is equally valid, and sensing this, everyone lets fly with theirs.
+哪些话题触及身份认同取决于人，而不是话题本身。当人们说一场讨论退化成了"宗教战争"，他们的真正意思是讨论开始被人们的身份所驱动。
 
-But this isn't true. There are certainly some political questions that have definite answers, like how much a new government policy will cost. But the more precise political questions suffer the same fate as the vaguer ones.
+最关键的一点是：如果人们无法对任何成为其身份一部分的事情进行清晰思考，那么在其他条件相同的情况下，最好的策略就是 **尽可能少地让东西进入你的身份认同**。
 
-I think what religion and politics have in common is that they become part of people's identity, and people can never have a fruitful argument about something that's part of their identity. By definition they're partisan.
+你给自己贴的标签越多，它们就会让你变得越笨。
 
-Which topics engage people's identity depends on the people, not the topic. For example, a discussion about a battle that included citizens of one or more of the countries involved would probably degenerate into a political argument. But a discussion today about a battle that took place in the Bronze Age probably wouldn't. No one would know what side to be on. So it's not politics that's the source of the trouble, but identity. When people say a discussion has degenerated into a religious war, what they really mean is that it has started to be driven mostly by people's identities.
+**注：**
 
-Because the point at which this happens depends on the people rather than the topic, it's a mistake to conclude that because a question tends to provoke religious wars, it must have no answer. For example, the question of the relative merits of programming languages often degenerates into a religious war, because so many programmers identify as X programmers or Y programmers. This sometimes leads people to conclude the question must be unanswerable—that all languages are equally good. Obviously that's false: anything else people make can be well or badly designed; why should this be uniquely impossible for programming languages? And indeed, you can have a fruitful discussion about the relative merits of programming languages, so long as you exclude people who respond from identity.
+[1] 当身份认同被触及，讨论会像核反应堆的临界一样迅速失控。参与门槛降到零，引来更多参与者。
 
-More generally, you can have a fruitful discussion about a topic only if it doesn't engage the identities of any of the participants. What makes politics and religion such minefields is that they engage so many people's identities. But you could in principle have a useful conversation about them with some people. And there are other topics that might seem harmless, like the relative merits of Ford and Chevy pickup trucks, that you couldn't safely talk about with others.
+[2] 有些东西纳入身份可能净收益为正，比如"科学家"。但这更像是一个占位符而非真正的标签——不承诺你相信任何特定的事物。认为自己是个科学家，相当于在柜子里贴了张纸条写着"这个柜子必须保持空着"。
 
-The most intriguing thing about this theory, if it's right, is that it explains not merely which kinds of discussions to avoid, but how to have better ideas. If people can't think clearly about anything that has become part of their identity, then all other things being equal, the best plan is to let as few things into your identity as possible.
-
-Most people reading this will already be fairly tolerant. But there is a step beyond thinking of yourself as x but tolerating y: not even to consider yourself an x. The more labels you have for yourself, the dumber they make you.
-
-**Notes:**
-
-[1] When that happens, it tends to happen fast, like a core going critical. The threshold for participating goes down to zero, which brings in more people. And they tend to say incendiary things, which draw more and angrier counterarguments.
-
-[2] There may be some things it's a net win to include in your identity. For example, being a scientist. But arguably that is more of a placeholder than an actual label—like putting NMI on a form that asks for your middle initial—because it doesn't commit you to believing anything in particular. A scientist isn't committed to believing in natural selection in the same way a biblical literalist is committed to rejecting it. All he's committed to is following the evidence wherever it leads. Considering yourself a scientist is equivalent to putting a sign in a cupboard saying "this cupboard must be kept empty." Yes, strictly speaking, you're putting something in the cupboard, but not in the ordinary sense.
-
-*Thanks to Sam Altman, Trevor Blackwell, Paul Buchheit, and Robert Morris for reading drafts of this.*
+*感谢 Sam Altman、Trevor Blackwell、Paul Buchheit 和 Robert Morris 对本文初稿的审阅。*
 
 ---
 

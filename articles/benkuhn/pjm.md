@@ -1,44 +1,34 @@
-# How I've Run Major Projects
+# 我是如何管理重大项目的
 
 > Ben Kuhn, 原文链接: https://www.benkuhn.net/pjm/
 
-## Contents
+我在 Anthropic 效率最高的几周，都是在"危机项目管理"中度过的。
 
-- [Focus](#focus)
-- [Maintain a detailed plan for victory](#maintain-a-detailed-plan-for-victory)
-- [Run a fast OODA loop](#run-a-fast-ooda-loop)
-- [Overcommunicate](#overcommunicate)
-- [Break off subprojects](#break-off-subprojects)
-- [Have fun](#have-fun)
-- [Appendix: my project DRI starter kit](#appendix-my-project-dri-starter-kit)
+在 Anthropic 这样的公司，优秀的项目管理是一项极高杠杆的技能。我们的工作有大量复杂且隐蔽的依赖关系和时间约束，组织得当可以节省数周的延迟。
 
-My few most productive individual weeks at Anthropic have all been "crisis project management": coordinating major, time-sensitive implementation or debugging efforts.
+## 专注
 
-### Focus
+每次危机管理项目，我都会完全清空日程来专注，每天花 6 小时以上来组织协调。更重要的不是腾出时间，而是让项目成为你心中最重要的事。
 
-For each of the crisis management projects I completely cleared my schedule to focus on them, and ended up spending 6+ hours a day organizing them. Even more importantly than freeing up time, clearing my schedule made sure the project was the top idea in my mind.
+## 维护详细的胜利计划
 
-### Maintain a detailed plan for victory
+一个关键工具是"胜利计划"——尽可能具体的步骤列表，每一步完成后目标就达成了。计划之所以重要，是因为判断执行情况是知道项目进展好坏的最佳方式。
 
-A specific tool that I've found critical is a detailed plan for victory, i.e., a list of steps, as concrete as possible, that end with the goal being achieved. The plan is important because whether or not we're achieving the plan is the best way to figure out how well or badly things are going.
+## 运行快速的 OODA 循环
 
-### Run a fast OODA loop
+OODA 代表"观察→定位→决策→行动"。大多数重大项目都受限于信息不完备，项目时间线通常取决于信息往返的速度。
 
-OODA stands for "observe, orient, decide, act"—in other words, the process by which you update your plans and behavior based on new information. Most large projects are characterized by incomplete information, and the project timeline was strongly constrained by how quickly information could round-trip.
+## 过度沟通
 
-### Overcommunicate
+不仅仅是让自己跑快速的 OODA 循环——在大型团队中，每个人都需要能自主做出高质量的本地优先级决策。为此他们需要时刻了解周围发生了什么。
 
-It's not just enough for me personally to be running a fast OODA loop—in a large group, everyone needs to be autonomously making frequent, high-quality, local prioritization decisions.
+## 切分子项目
 
-### Break off subprojects
+项目超过约 10 人时，我无法独自跟踪所有细节。此时关键是委托项目管理本身，而不仅仅是执行。
 
-Once a project gets over maybe 10 people, I can't track everything myself in enough detail. At this point, it becomes critical to delegate the project management, not just the execution.
+## 享受过程
 
-### Have fun
-
-Some of my favorite memories of Anthropic are of helping out with these big projects. The feeling of being part of a big team of truly excellent people cooking something ambitious together can be really magical!
-
-*[附录提供了一套完整的项目管理入门工具包，包括周会模板、项目着陆页设计、路线图制定等]*
+我在 Anthropic 最喜欢的记忆之一就是参与这些大项目。和一群真正优秀的人一起烹饪雄心勃勃的项目，那种感觉很神奇。
 
 ---
 

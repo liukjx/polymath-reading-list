@@ -1,40 +1,40 @@
-# How to Be More Agentic
+# 如何变得更有能动性
 
 > Cate Hall, 原文链接: https://usefulfictions.substack.com/p/how-to-be-more-agentic
 
-I often hear agency talked about as if it's an inherent trait: Either someone has it or they don't—in which case, too bad, they're doomed to a life in the minor leagues. This hasn't been my experience. Over the years, as I've gradually grown dumber relative to my peers through a combination of aging and making smarter friends, one of the main ways I've compensated has been through dialing up my agency, which I think of as something like "manifest determination to make things happen."
+我经常听到人们把"能动性"（agency）当成一种与生俱来的特质——要么你有，要么你没有。如果没有，那就不幸了，你注定只能在二流待着。但我的经历并非如此。
 
-As a result, I've done a bunch of cool stuff in different domains: I was a Supreme Court advocate and the number one female poker player in the world; started art and perfume companies; and led operations at Alvea, a pandemic medicine company I co-founded, when it set the record for the fastest startup to take a drug to clinical trials.
+我将能动性理解为类似于"用实际行动让事情发生的决心"。凭借它，我做过很多不同领域的酷事：最高法院辩护律师、世界排名第一的女扑克手；创办艺术公司和香水公司；在我共同创立的一家制药公司担任运营负责人，创造了从零到临床试验速度最快的记录。
 
-### Ask for things
+### 敢于开口去要
 
-Ask for things that feel unreasonable, to make sure your intuitions about what's reasonable are accurate. If you're only asking for things you get, you're not aiming high enough.
+去要那些你觉得不合理的东西，测试你对"什么算合理"的直觉是否准确。如果你要的东西都得到了，说明你的目标还不够高。工作就是最好的例子：在职业早期，你应该在申请的大多数事情上被拒绝。
 
-### Seek real feedback
+### 寻求真实反馈
 
-If you aren't trying to get real feedback from people who know you, you're cooking without tasting. This is the lowest hanging fruit for self-improvement. Give people a way to provide it anonymously.
+如果你不去向了解你的人寻求反馈，那就是不尝味道就开始做饭。这是自我提升中最低垂的果实。给人们提供匿名反馈的渠道。
 
-### Meet lots of people
+### 多认识人
 
-I have very little ability to predict how useful a call will be in advance. Nearly all of my most fruitful collaborations over the last 3 years have come out of meetings I booked almost at random.
+我对一次通话是否有用几乎没有任何预测能力。过去三年最有成果的合作，几乎都来自我近乎随机约到的会议。
 
-### Assume everything is learnable
+### 假设一切都可以学
 
-Most subject matter is learnable. But beyond that, many traits that people treat as fixed are actually quite malleable. Agency itself is the best example. Other things you can learn: confidence, charisma, warmth, tranquility, optimism.
+大多数东西都可以学。很多被视为"固定不变"的特质实际上是高度可塑的——如果你相信它们可以学，并投入同样的努力。能动性本身就是一个最好的例子。你可以学会的其他东西：自信、魅力、温暖、宁静、乐观。
 
-### Cross the moat of low status
+### 跨越低地位护城河
 
-Making changes in your life, especially when learning new skill sets, requires you to cross a moat of low status—a period of time where you are actually bad at the thing. If you can learn to thrive in the moat, it's incredibly liberating.
+改变生活，尤其是学习新技能，需要你跨过一段低地位时期——你真的不擅长那件事的阶段。如果你能学会在护城河里游刃有余，那就无比解放。
 
-### Don't burn out
+### 不要耗尽自己
 
-The reality is that grinding, even if it temporarily increases output, kills creativity and big picture thinking. Burnout is the ultimate agency-killer. I've learned to identify a reduction in agency as one of the first signs of burnout.
+拼命工作即使暂时提高了产出，也会扼杀创造力和大局观。倦怠是能动性的终极杀手。我学会了把"能动性下降"识别为倦怠的早期信号之一。
 
-### Final thought
+### 最后的话
 
-Agency is the skill that built the world around you, an all-purpose life intensifier that lets you make your corner of it more like what you want it to be. No one is born with it, everyone can learn it, and it's never too late.
+能动性是一手打造了你身边这个世界的技能。它是一切的放大器。没有人天生就有它，每个人都可以学到它，而且永远都不晚。
 
-*2026 Update: My book based on this blog post, You Can Just Do Things, is now available for purchase.*
+*2026年更新：我的书《You Can Just Do Things》（你可以直接去做）现已发售。*
 
 ---
 

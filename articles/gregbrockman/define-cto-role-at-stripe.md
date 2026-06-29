@@ -1,42 +1,34 @@
-# #define CTO
+# #define CTO：在 Stripe 找到我的角色
 
 > Greg Brockman, 原文链接: https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe
 
-October 27, 2014
+2014年10月27日
 
-## The Transition
+## 过渡
 
-I joined Stripe as an engineer in 2010. As time went on, I accumulated more and more responsibilities which were not strictly writing code. My job became full-time "early employee."
+我 2010 年加入 Stripe 做工程师。随着时间推移，我承担了越来越多代码之外的责任。我的工作变成了全职的"早期员工"。
 
-About a year and half ago, we officially declared me CTO. This post is the story of what happened next.
+大约一年半前，公司正式任命我为 CTO。这篇文章讲的是接下来发生的事。
 
-## Hiring a VP Engineering
+## 招聘一位 VP Engineering
 
-Around last summer, I started doing 1:1s with everyone. I would stack them all on a Tuesday, and be completely burned out by the end of the day. I knew I was faced with a choice: the technical route or the people route.
+某个夏天我开始和每个人做一对一面谈。我把它们堆在星期二，到那天结束时已经完全精疲力竭。我知道自己面临一个选择：技术路线还是人员路线。
 
-I resolved to find a VP Engineering. One of those managers, Marc Hedlund, coincidentally became available. We set up interviews: four days of back-to-back 1:1 meetings with everyone on the team from 10a-6p, as well as a talk to the whole company.
+我决定找一位 VP Engineering。正好其中一位管理者 Marc Hedlund 出现了。设置了四天密集面试。
 
-## Delegation
+## 授权
 
-Once Marc started, I immediately transitioned all the 1:1s over to him. The best advice I've gotten on delegation: you either delegate completely, or you stay involved in all the details. But "sparse micromanagement" (jumping in, overturning decisions, then disappearing) is the worst.
+Marc 加入后，我立即把所有的 1:1 交接给他。关于授权最好的建议是：要么完全授权，要么全程参与。但"稀疏的微观管理"——突然跳进来推翻所有决策然后消失——是最糟糕的。
 
-The way Marc and I worked through this was spending way more time together: two hour-long 1:1s a week.
+## 找到我的角色
 
-## Finding My Role
+我去做了一场 CTO 式探索，问了大 约 20 位 CTO 他们角色的定义。只发现一位 CTO 真正是"首席架构师"。其余人都把自己看作技术组织的促进者。
 
-I went on a CTO vision quest, asking about 20 different CTOs to describe their roles. I found only one CTO for whom "chief architect" was true. Everyone else viewed themselves as facilitators of the technology organization.
+我意识到最重要的事情是赋能工程师。但我没有预料到的是突然失去了反馈回路。如何知道组织里在发生什么？四个可能的机制：做实际工作、和很多人聊、观察工作、规划工作。
 
-I realized the most important thing was to empower our engineers. But one thing I hadn't anticipated was suddenly losing my feedback loop.
+我重新开始写代码。不容易，但越沉浸在代码中，我对组织的视角就越清晰。
 
-How do you know what's going on in an organization? Four possible mechanisms:
-1. Doing the work
-2. Talking to lots of people
-3. Observing the work
-4. Planning the work
-
-I started working on a team and writing code again. It's not been easy, but the more time I've spent immersed in producing code, the better perspective I've had on the organization.
-
-> It's not about time management, it's about energy management. It's important to find activities that recharge you so that you have the energy to deal with the high-leverage draining stuff.
+> 不是时间管理，是能量管理。找到能让你重新充电的活动，这样你才有精力处理那些高杠杆但又消耗巨大的事情。
 
 ---
 

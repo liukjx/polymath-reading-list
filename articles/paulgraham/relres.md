@@ -1,8 +1,6 @@
-# Relentlessly Resourceful
+# 坚持不懈地足智多谋
 
 > Paul Graham, 原文链接: https://www.paulgraham.com/relres.html
-
-*(完整原文请访问原始链接。以下是核心摘要：)*
 
 Paul Graham 在这篇文章中提出，创业公司创始人最需要的一种特质是"坚持不懈地足智多谋"（relentlessly resourceful）。这不同于单纯的决心或聪明——而是面对任何障碍时都能找到解决办法的能力，即使手段不够优雅、不够常规。
 

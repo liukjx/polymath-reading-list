@@ -1,52 +1,46 @@
-# Do Things that Don't Scale
+# 做那些无法规模化的事
 
 > Paul Graham, 原文链接: https://paulgraham.com/ds.html
 
-July 2013
+2013年7月
 
-One of the most common types of advice we give at Y Combinator is to do things that don't scale. A lot of would-be founders believe that startups either take off or don't. You build something, make it available, and if you've made a better mousetrap, people beat a path to your door as promised. Or they don't, in which case the market must not exist.
+我们在 Y Combinator 给出的一条最常见的建议是：**做那些无法规模化的事**。很多潜在的创始人认为，创业公司要么起飞要么失败。你做出产品，发布出去，如果你做的捕鼠器更厉害，人们自然会像承诺的那样蜂拥而至。要么不，那就说明市场不存在。
 
-Actually startups take off because the founders make them take off. There may be a handful that just grew by themselves, but usually it takes some sort of push to get them going. A good metaphor would be the cranks that car engines had before they got electric starters. Once the engine was going, it would keep going, but there was a separate and laborious process to get it going.
+但实际上，创业公司之所以能起飞，是因为创始人让它们起飞的。可能需要一些推动力才能启动。一个好的比喻是汽车发动机的摇把——在电动启动器出现之前，发动机一旦运转就会持续工作，但启动它需要一个独立且费力的过程。
 
-### Recruit
+### 主动招募
 
-The most common unscalable thing founders have to do at the start is to recruit users manually. Nearly all startups have to. You can't wait for users to come to you. You have to go out and get them.
+创始人需要做的最常见的不规模化的事，就是手动招募用户。几乎所有创业公司都必须这么做。你不能等着用户来找你。你得出去拉他们。
 
-Stripe is one of the most successful startups we've funded, and the problem they solved was an urgent one. If anyone could have sat back and waited for users, it was Stripe. But in fact they're famous within YC for aggressive early user acquisition. At YC we use the term "Collison installation" for the technique they invented. When anyone agreed to try Stripe they'd say "Right then, give me your laptop" and set them up on the spot.
+Stripe 是我们投资过的最成功的创业公司之一。如果有人可以坐等用户上门，那应该是 Stripe。但事实上，他们在 YC 内部以激进的早期用户获取而闻名。我们称之为"Collison 式安装"：当有人同意试用 Stripe 时，他们会说"好，把你的笔记本电脑给我"，当场就帮你设置好。
 
-There are two reasons founders resist going out and recruiting users individually. One is a combination of shyness and laziness. The other reason founders ignore this path is that the absolute numbers seem so small at first. The mistake they make is to underestimate the power of compound growth. If you have 100 users, you need to get 10 more next week to grow 10% a week. After a year you'll have 14,000 users, and after 2 years you'll have 2 million.
+创始人抗拒主动招募用户的原因有两个：一是害羞和懒惰的结合，二是最初的绝对数字看起来太小了。他们犯的错误是低估了复利增长的威力。如果你有 100 个用户，你只需要在下周再争取 10 个，就能实现每周 10% 的增长。一年后你就有 14,000 个用户，两年后就有 200 万。
 
-Airbnb is a classic example of this technique. In Airbnb's case, these consisted of going door to door in New York, recruiting new users and helping existing ones improve their listings.
+Airbnb 是这种技巧的经典案例。他们在纽约挨家挨户地拜访，招募新用户并帮助现有用户改进他们的房源。
 
-### Fragile
+### 脆弱性
 
-Airbnb now seems like an unstoppable juggernaut, but early on it was so fragile that about 30 days of going out and engaging in person with users made the difference between success and failure.
+Airbnb 现在看起来像一台势不可挡的巨兽，但早期它是如此脆弱，以至于大约 30 天亲自与用户互动就决定了成败。
 
-The question to ask about an early stage startup is not "is this company taking over the world?" but "how big could this company get if the founders did the right things?" And the right things often seem both laborious and inconsequential at the time.
+关于早期创业公司，你要问的问题不是"这家公司要征服世界了吗？"，而是"如果创始人做对了事情，这家公司能有多大？"而正确的事情在当下往往看起来既费力又不值一提。
 
-### Delight
+### 让用户高兴
 
-You should take extraordinary measures not just to acquire users, but also to make them happy. For as long as they could, Wufoo sent each new user a hand-written thank you note. Your first users should feel that signing up with you was one of the best choices they ever made.
+你不仅要花大力气获取用户，还要让他们开心。Wufoo 在能做到的时候，会手写感谢信给每个新用户。你的第一批用户应该觉得选择你是他们做过的最好的决定之一。
 
-I have never once seen a startup lured down a blind alley by trying too hard to make their initial users happy.
+我从未见过哪个创业公司因为太努力让第一批用户开心而误入歧途。
 
-### Experience
+### 亲身体验
 
-The question "did you ever use that thing you built?" is actually a pretty good test. If you haven't, you're probably building something you don't really understand.
+"你真的用过你做的产品吗？"这个问题的答案其实是一个很好的测试。如果你没用过，你可能在构建你并不真正理解的东西。
 
-### The "do things that don't scale" advice is particularly important for startups that seem to need it least
+### 手动模式
 
-The very best startups usually have something wrong with them that makes them seem unpromising at first. If you're not embarrassed by your first product, you launched too late.
+当你只有少量用户时，有时可以用手动的、计划以后自动化的方式来做事情。这能让你更快发布，当你最终自动化自己退出循环时，你会确切知道要构建什么，因为你已经有了肌肉记忆。
 
-### Manual
+### 大张旗鼓的发布
 
-When you only have a small number of users, you can sometimes get away with doing by hand things that you plan to automate later. This lets you launch faster, and when you do finally automate yourself out of the loop, you'll know exactly what to build because you'll have muscle memory from doing it yourself.
-
-### Big
-
-I should mention one sort of initial tactic that usually doesn't work: the Big Launch. It's easy to see how little launches matter. Think of some successful startups. How many of their launches do you remember? All you need from a launch is some initial core of users. How well you're doing a few months later will depend more on how happy you made those users than how many there were of them.
-
-*[完整原文较长，以上为关键要点摘录]*
+有一种常见的初始策略通常没什么用：大张旗鼓的发布。想想那些成功的创业公司，你还记得它们的发布吗？你需要的只是一个初始核心用户群。几个月后你做得好不好，更多取决于你让那些用户有多开心，而不是一开始有多少人。
 
 ---
 

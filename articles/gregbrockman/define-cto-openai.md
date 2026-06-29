@@ -2,39 +2,39 @@
 
 > Greg Brockman, 原文链接: https://blog.gregbrockman.com/define-cto-openai
 
-January 9, 2017
+2017年1月9日
 
-It's been two years since I wrote #define CTO, in which I documented my quest for a role where I could have scalable impact by writing code. I've finally found that role, though not by seeking it—instead, I sought out a problem more important to me than my role within it.
+距离我写完 #define CTO 已经两年了。我终于找到了这个角色——不是通过寻找，而是通过寻找一个比我自己的角色更重要的问题。
 
-## Formation
+## 创建
 
-In August 2015, OpenAI was just an idea articulated over a dinner with Elon Musk, Sam Altman, Ilya Sutskever, me, and a handful of others.
+2015年8月，OpenAI 还只是一个饭桌上的想法，参与的有 Elon Musk、Sam Altman、Ilya Sutskever 和我。
 
-We were missing a core ingredient: we needed an AI technical visionary. Ilya Sutskever was clearly the best person in the world for this.
+我们缺少一个核心要素：一位 AI 技术远见者。Ilya Sutskever 显然是世界上最合适的人选。
 
-## Founding Team
+## 创始团队
 
-Because Ilya was still at Google, the job of building the founding team fell to me. I was new to AI, and it wasn't clear how to find and recruit great researchers. The challenge was convincing the candidate to believe in this unformed organization.
+由于 Ilya 还在 Google，组建创始团队的任务落在我肩上。我对 AI 不熟悉，不清楚如何找到并招募优秀的研究员。挑战在于说服候选人相信这个尚未成型的组织。
 
-The tipping point was when John Schulman signed up—his endorsement made others pay attention.
+转折点是 John Schulman 加入——他的背书让其他人开始认真看待。
 
 ## Gym
 
-Problems in machine learning are more often solved when a new dataset becomes available than when a new algorithm becomes available. Wojciech suggested building Gym.
+机器学习问题往往不是因为新算法而是因为新数据集的可用性才得以解决。Wojciech 建议构建 Gym。
 
-Suddenly, engineering had become a bottleneck on research progress. Ilya and I swapped roles—he took on administrative tasks so I could focus on technical work. I found a repeatable pattern: focus single-mindedly, shut out all distractions, work from wake until sleep.
+突然之间，工程成了研究进步的瓶颈。Ilya 和我互换了角色——他接手行政事务，我专注技术工作。
 
-Machine learning systems can be thought of as an ML core surrounded by a huge amount of software engineering. Each incremental bit of engineering effort makes problems incrementally easier for our models.
+机器学习系统可以看作一个 ML 核心，被大量的软件工程包围。每一份增量工程努力都能让模型更容易取得进展。
 
 ## Universe
 
-After Gym, Andrej's suggestion of building an agent to control a web browser led to Universe. Building Universe was a systems research effort unto itself—no one had ever tried building a similar system.
+之后，Andrej 建议构建一个能操控网页浏览器的智能体，这演变成了 Universe。构建 Universe 是一项系统工程研究——以前从未有人尝试过类似系统。
 
-## What Comes Next
+## 下一步
 
-We're now an organization of forty people, and we now need someone optimizing the organization full-time. Erika Reinhardt joined to handle that.
+我们现在是 40 人的组织，需要有人全职优化组织。Erika Reinhardt 加入来负责这方面。
 
-Most startups create one technology, and then operate and scale it over time. OpenAI is a factory for creating new technologies. The engineering needed to build entirely new systems is a core part of what makes OpenAI work.
+多数创业公司创建一个技术然后运营和扩展它。OpenAI 是一个创造新技术的工厂。构建全新系统所需的工程能力，是 OpenAI 运转的核心。
 
 ---
 

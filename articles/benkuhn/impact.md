@@ -1,56 +1,54 @@
-# Impact, Agency, and Taste
+# 影响力、能动性与品味
 
 > Ben Kuhn, 原文链接: https://www.benkuhn.net/impact/
 
-## Contents
+我最近一直在思考：什么区分了我那些做出最出色工作的同事？
 
-- [I. Agency](#i-agency)
-- [II. Taste](#ii-taste)
+人们可能认为让一个人在研究和工程中真正高效的是技术能力。在普通人群中确实如此。但在 Anthropic 的同事中，我们已经通过筛选把范围限制在了技术能力极高的人群中，所以剩下的差异虽然仍然重要，但已经不是关键因素。
 
-I've been thinking recently about what sets apart my coworkers who've done the best work. You might think that the main thing that makes people really effective at research or engineering is technical ability, and among the general population that's true. Among my Anthropic coworkers, though, we've restricted the range by screening for extremely high-percentile technical ability, so the remaining differences, while they still matter, aren't quite as critical.
+人们最终最大的瓶颈变成了他们获得**杠杆**的能力——即找到并执行那些有巨大单位时间影响力的工作。
 
-Instead, people's biggest bottleneck eventually becomes their ability to get leverage—i.e., to find and execute work that has a big impact-per-hour multiplier.
+我认为找到高杠杆工作有两个相互关联的组成部分：
 
-I think of finding high-leverage work as having two interrelated components:
+- **能动性（Agency）**：积极主动地去推动事情发生，加上坚持不懈和足智多谋来确保成功
+- **品味（Taste）**：对什么可行、什么不可行的良好直觉
 
-- **Agency**: i.e. some combination of the initiative/proactiveness to try to make things happen, and relentlessness and resourcefulness to make sure you'll succeed.
-- **Taste**: you need a good intuition for what things will and won't work well to try.
+没有品味，你可能在错误的方向上努力。没有能动性，即使方向正确，你也走不远。
 
-Without taste, you're likely to work toward the wrong thing. Without agency, even if you work toward the right thing, you're likely to get nowhere.
+## 一、能动性
 
-## I. Agency
+### 理解并从根本目标反向推导
 
-### Understand and work backwards from the root goal
+获得更多杠杆最简单的方法之一，就是弄清楚如何用更好的方法实现同样的目标。你需要时刻关注高层级背景和优先级。
 
-One of the easiest ways to get more leverage is to take a goal you're already trying to accomplish, and figure out a better way to accomplish the same thing. In order to do this, you need to keep careful track of the high-level context and priorities.
+### 不要过度依赖许可或鼓励
 
-### Don't rely too much on permission or encouragement
+一个反直觉的事实：最高杠杆的项目往往在事前对大多数人来说并不明显是高杠杆的（如果是，早就被人做了）。这意味着人们常常对其价值持怀疑态度。
 
-A counterintuitive fact about the highest-leverage projects is that they're often not obviously high-leverage to most people in advance (because if they were, they would already have been done a long time ago). That means people are often skeptical of the value of pursuing them.
+与其请求批准，不如直接告诉别人你打算做什么，给他们留出反对或纠正的空间。
 
-Instead of asking people for approval to go do something, you can just tell them what you intend to do (implicitly giving them space to object or course-correct if they feel strongly).
+### 让成功成为必然
 
-### Make success inevitable
+高能动性的人有一个共同特征：他们为自己的目标负责，而不仅仅是执行任务。两者天壤之别：
 
-A common trait of high-agency people is that they take accountability for achieving a goal, not just doing some work. There's a huge difference between:
-- Mode 1: "My goal is to ship this project by the end of the month, so I'm going to get people started working on it ASAP."
-- Mode 2: "My goal is to ship this project by the end of the month, so I'm going to list out everything that needs to get done by then, draw up a schedule working backwards..."
+- 模式1："我的目标是在月底交付这个项目，所以我要尽快让人开始做。"
+- 模式2："我要列出所有必须完成的事情，反向排期，确保关键路径够短……"
 
-People who can be trusted to make something inevitable are really rare, and are typically the bottleneck for how many different things a team or company can do at once.
+能让事情"必然发生"的人极其稀缺，往往是团队或公司能做多少事情的瓶颈。
 
-## II. Taste
+## 二、品味
 
-### Find your angle
+### 找到你的角度
 
-The quality of most people's taste is highly idiosyncratic and area-specific. An important signal to keep track of is: where is your taste the best? The prompt I suggest here is: what does it seem like everyone else is mysteriously bad at? That's probably a sign that you have good taste there.
+大多数人的品味高度个性化且领域特定。一个重要信号是：**你觉得哪些事情大家都莫名其妙地做不好？** 那可能就是你有好品味的地方。
 
-### Think real hard
+### 用力思考
 
-One way of thinking about taste is that it's about the quality of your predictive models and search heuristics. Doing enough search and prediction to come up with great ideas takes time.
+品味是关于你预测模型和搜索启发式的质量。花足够多的搜索和预测时间来产生好主意，这是需要时间的。
 
-### Reflect on your thinking
+### 反思你的思维
 
-If taste is about the quality of your predictive models and search heuristics, it's important to wring out every possible update from the data that you get. Many of the most effective people I've worked with also do the most metacognition, reflecting on their own work and thought processes.
+从你获得的数据中榨取每一个可能的更新。我合作过的最有效的人往往也是最常做元认知的人——反思自己和团队的工作和思考过程，思考如何改进。
 
 ---
 

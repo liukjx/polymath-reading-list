@@ -1,52 +1,50 @@
-# Learning By Writing
+# 通过写作来学习
 
 > Holden Karnofsky, 原文链接: https://www.cold-takes.com/learning-by-writing/
 
-I have very detailed opinions on lots of topics. I sometimes get asked how I do this. You can think of this as a sort of sequel to *Minimal-Trust Investigations*.
+我对很多话题都有非常详细的看法。有时人们问我怎么做到的。核心方法是：**我的学习围绕写作而非阅读来组织**。
 
-The rough basic idea is that I organize my learning around writing rather than reading.
+## 我的方法
 
-## My Process
+### 第一步：选一个主题
 
-### Step 1: Pick a topic
+找那些"如果为真则重要，而且可能为真"的主张。
 
-I decide what I want to form an opinion about. My basic approach: "Find claims that are important if true, and might be true."
+### 第二步：读一点，聊一点
 
-### Step 2: Read and/or discuss (a bit)
+阅读 1-3 篇支持或反对该主张的核心文章，理解主要论点。
 
-Read the most prominent 1-3 pieces that defend or attack the claim. Understand the major reasons.
+### 第三步：捍卫你当前过于仓促的假设（用写作）
 
-### Step 3: Explain and defend my current, incredibly premature hypothesis, in writing
+这是独特之处——**在你有"资格发表意见"之前很久就形成假设**。用强烈、大胆的语气陈述你的观点，主动防守它，列出所有最佳反驳并击溃它们。
 
-This is where my approach gets unusual—I form a hypothesis LONG before I'm "qualified to have an opinion." I state what I think in a strong, bold manner, defend it aggressively, list counterarguments, and shoot them down.
+### 第四步：找出弱点，列出清单
 
-### Step 4: Find and list weaknesses in my case
+扮演自己的反对者。寻找那些反驳你假设的人，找到他们最强的论点。
 
-Play devil's advocate against myself. Find people arguing things that contradict my hypothesis.
+### 第五步：选一个子问题，深入阅读
 
-### Step 5: Pick a subquestion and do more reading
+专注于**最能改变你整体主张**的信息。
 
-Stay focused on what would most likely change the big-picture claim.
+### 第六步：修改/反转你的主张
 
-### Step 6: Revise my claim / switch sides
+即使你还没被说服，也尝试完全反转你的假设。
 
-Often try radically flipping around my hypothesis, even if I haven't been convinced it's wrong.
+### 第七步：重复 3-6 步
 
-### Step 7: Repeat steps 3-6 a bunch
+通过多轮循环，你的假设会越来越复杂和细致。
 
-Hypotheses become increasingly complex and detailed through cycles.
+### 第八步：从他人那里获取反馈
 
-### Step 8: Add feedback from others
+一旦你自己不再容易找到问题，就从他人那里获得反馈。
 
-Once I can no longer easily tear apart my own hypothesis, seek feedback from others.
+## 为什么这很难
 
-## Why This Is Hard
+- 总觉得自己知道，但一写就发现其实不知道
+- 无穷无尽的判断：是深挖还是重新框架？
+- 一半时间，所有努力的最后结论只是"你同意专家意见而已"
 
-- Constantly feeling like I know what I think, then starting to write and immediately noticing I don't
-- Endless judgment calls about whether to dig deeper or reframe
-- Half the time, all this work just ends up with me agreeing with conventional wisdom anyway
-
-But for me at least, writing-centric work seems better for learning.
+但对我来说，以写作为中心的方式比纯阅读更有利于学习。
 
 ---
 
